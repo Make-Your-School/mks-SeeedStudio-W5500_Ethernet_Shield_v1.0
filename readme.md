@@ -1,4 +1,3 @@
-
 ---
 title: "Ethernet Shield"
 date: "2018-10-01T15:04:12.000Z"
