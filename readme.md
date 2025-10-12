@@ -3,7 +3,7 @@ title: "Ethernet Shield"
 date: "2018-10-01T15:04:12.000Z"
 tags: 
   - "shield"
-coverImage: "69_ethernet_shield.jpg"
+coverImage: "69_ethernet_shield.png"
 material_number: "69"
 material_type: "shield"
 material_short_descr: "Seeed Studio W5500 Ethernet Shield v1.0"
