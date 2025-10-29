@@ -15,6 +15,9 @@ clone_url: "https://github.com/Make-Your-School/mks-SeeedStudio-W5500_Ethernet_S
 repo_prefix: "mks"
 repo_part: "W5500_Ethernet_Shield_v1.0"
 embedded_example_file: "examples/W5500_Ethernet_Shield_v1.0_minimal/W5500_Ethernet_Shield_v1.0_minimal.ino"
+title: 'Ethernet Shield'
+status: 'active'
+difficulty: 'expert'
 ---
 
 
